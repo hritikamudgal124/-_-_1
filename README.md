@@ -1,6 +1,5 @@
-# OIB_SIP_TASKN0_1
-OASIS INFOBYTE INTERNSHIP
-LEVEL-2(TASK-1 CALCULATOR) weblink
+
+CALCULATOR weblink
 https://hritikamudgal124.github.io/OIBSIP-TASKNO-ONE/calculator/index.html
 
 REPOSITORY LINK
